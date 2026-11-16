@@ -4,6 +4,7 @@
 	"description": "Proyecto de aprendizaje de Node.js y npm en freeCodeCamp",
 	"keywords": ["freecodecamp", "nodejs", "npm", "express", "backend"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
