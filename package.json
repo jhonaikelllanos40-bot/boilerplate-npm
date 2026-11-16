@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jhonaikel Llanos",
+	"description": "Proyecto de aprendizaje de Node.js y npm en freeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
